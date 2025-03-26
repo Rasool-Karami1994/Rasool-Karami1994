@@ -9,7 +9,7 @@ I believe that nothing is more important and exciting than learning web-based te
 
 🔥 [Personal Site](https://rasool-portfolio.netlify.app)
 
-📥 [Download Resume](https://drive.google.com/file/d/1dTfbzt6Ty4RGCfjvb-ikT9O2XOnwRvEo/view?usp=drive_link)
+📥 [Download Resume](https://drive.google.com/file/d/1s4D6MtDion4-YnK-26kpzLJ-yPVkSnU8/view?usp=sharing)
 
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-076678?style=flat&logo=Linkedin&logoColor=fbf1c7)](https://www.linkedin.com/in/rasool-karami2304/)
 [![Telegram](https://img.shields.io/badge/-Telegram-076678?style=flat&logo=telegram&logoColor=fbf1c7)](https://telegram.me/rasoolkarami_1994/)
