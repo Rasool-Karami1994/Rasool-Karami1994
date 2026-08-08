@@ -8,7 +8,7 @@ I believe that nothing is more important and exciting than learning web-based te
 
 #### To know more about me ...
 
-📥 [Download Resume](https://drive.google.com/file/d/1Jffjxj-sVPCgXGfkv7_c-yJ5Mlb1I-zd/view?usp=sharing)
+📥 [Download Resume](https://drive.google.com/file/d/1IsIiBQnIaj6Zgf8LtXHzjxFsZnIcLHXW/view?usp=sharing)
 
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-076678?style=flat&logo=Linkedin&logoColor=fbf1c7)](https://www.linkedin.com/in/rasool-karami2304/)
 [![Telegram](https://img.shields.io/badge/-Telegram-076678?style=flat&logo=telegram&logoColor=fbf1c7)](https://telegram.me/rasoolkarami_1994/)
